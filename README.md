@@ -1,7 +1,8 @@
 
-**NOTE: This is a toy package created for expository purposes, for the
-second edition of [R Packages](https://r-pkgs.org). It is not meant to
-actually be useful. If you want a package for factor handling, please
+**NOTE: This is a toy package created following 
+[this tutorial](https://r-pkgs.org/whole-game.html).
+It is not meant to actually be useful. 
+If you want a package for factor handling, please
 see [forcats](https://forcats.tidyverse.org).**
 
 # foofactors
